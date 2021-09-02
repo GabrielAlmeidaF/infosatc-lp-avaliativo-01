@@ -1,4 +1,4 @@
-<img src="https://www1.satc.edu.br/parcelamento_satc/assets/img/logotipo_horizontal.png" width="350" height="250" />
+<img src="https://www1.satc.edu.br/parcelamento_satc/assets/img/logotipo_horizontal.png" width="400" height="200" />
 <hr size="3" color=black>
 <h1>
 Sobre mim:
