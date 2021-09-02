@@ -8,7 +8,7 @@ Gabriel de Almeida Francisco
 <br>
 Da turma 2190
 <br>
-Faz Curso Técnico de Informática
+Faz Curso Técnico de Informática na SATC
 <br>
 </h3>
 <hr size="3" color=black>
