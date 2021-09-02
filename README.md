@@ -1,8 +1,8 @@
-<img src="https://www1.satc.edu.br/parcelamento_satc/assets/img/logotipo_horizontal.png" width="350" height="200" />
+<img src="https://www1.satc.edu.br/parcelamento_satc/assets/img/logotipo_horizontal.png" width="350" height="250" />
 <hr size="3" color=black>
 <h1>
 Sobre mim:</h1>
-<font color="#000000" size="4" face="Verdana">Gabriel de Almeida Francisco</font>
+Gabriel de Almeida Francisco
 <br>
 <font color="#000000" size="4" face="Arial Black">Da turma 2190</font>
 <br>
