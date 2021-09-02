@@ -1,0 +1,7 @@
+a = float(input("Digite aqui a altura da parede em metros: "))
+c = float(input("Digite aqui o comprimento da parede em metros: "))
+area = (a*c)
+tinta = (area/3)
+latas = (tinta/3.6)
+valor = (latas*107)
+print("Com altura de {} e comprimento de {} sua área é de {} e será necessário usar {} litros de tinta, ou seja {} latas, que vai dar um total de R${} todas as latas".format(a, c, (area), (tinta), (latas), (valor)))
