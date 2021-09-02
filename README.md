@@ -9,6 +9,6 @@
 <br>
 <font color="#000000" size="4" face="Arial Black">Atividade realizada no dia 02/09/2021 na matéria de linguagem de programação</font>
 <br>
-<font color="#000000" size="4" face="Arial Black">Atividade avaliativa sobre python, junto com mosificação do readme e com utilização do github como forma de entrega, com a linguagem python</font>
+<font color="#000000" size="4" face="Arial Black">Atividade avaliativa sobre python, junto com mosificação do readme e com utilização do github como forma de entrega, com a linguagem python.</font>
 </center>
 <hr size="3" color=black>
